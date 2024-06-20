@@ -16,3 +16,6 @@ Well, this is a virus that was intended to eliminate the leukocyte maya trojan, 
 Just drag and drop the .py file into the main maya window with the infected scene open.
 
 ![image](https://github.com/TheFuchsen/PatchesAndUtils/assets/104402512/520ffdea-ee03-4836-8b6e-6e7e7ba3afdb)
+
+https://github.com/TheFuchsen/PatchesAndUtils/blob/660ff7905b28bc033cf982a3b4174316f21b08ed/LeukoPatch/leukoPatch_V1.py
+
